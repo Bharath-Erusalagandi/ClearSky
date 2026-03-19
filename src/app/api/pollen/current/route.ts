@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 
-const AMBEE_API_KEY = process.env.AMBEE_API_KEY
+const AMBEE_API_KEY = process.env.AMBEE_API_KEY || ''
 const AMBEE_BASE_URL = 'https://api.ambeedata.com/latest'
 
 export async function GET(request: NextRequest) {
