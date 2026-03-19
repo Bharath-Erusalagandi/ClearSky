@@ -1,8 +1,8 @@
 # ClearSky - Respiratory Health Dashboard
 
-ClearSky is an AI-powered respiratory health monitoring dashboard designed to help individuals with asthma and allergies stay informed about their environment. By integrating real-time air quality, pollen data, and weather insights, ClearSky empowers users to make healthier decisions for safer living.
+ClearSky is a respiratory health monitoring dashboard designed to help individuals with asthma and allergies stay informed about their environment. By integrating real-time air quality, pollen data, and weather insights, ClearSky empowers users to make healthier decisions for safer living.
 
-## 🚀 Features
+## Features
 
 - **Real-time Air Quality Monitoring**: Detailed insights into AQI, PM2.5, PM10, O3, NO2, SO2, and CO levels.
 - **Pollen Tracking**: Current and forecasted pollen counts for grass, trees, and weeds.
@@ -11,7 +11,7 @@ ClearSky is an AI-powered respiratory health monitoring dashboard designed to he
 - **Interactive Map**: Visualize environmental data geographically (Pollen Map).
 - **Modern UI/UX**: A premium, responsive interface with smooth animations and dark mode support.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework**: [Next.js 15](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -20,7 +20,7 @@ ClearSky is an AI-powered respiratory health monitoring dashboard designed to he
 - **Mapping**: [Leaflet](https://leafletjs.com/)
 - **Data Fetching**: Server-side API routes with integration to Ambee and OpenWeatherMap APIs.
 
-## 🚦 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -55,10 +55,10 @@ ClearSky is an AI-powered respiratory health monitoring dashboard designed to he
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🎥 Demo
+## Demo
 
 Check out the video explaining how the application works: [Vimeo Link](https://vimeo.com/1132353069?share=copy&fl=sv&fe=ci)
