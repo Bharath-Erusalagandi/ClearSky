@@ -1,4 +1,4 @@
-const POLLEN_API_KEY = "9b97e2af3ff09e7f0eb8b5f781919ecade124e2ab76bba140f9ea12f57e87e1d"
+const POLLEN_API_KEY = process.env.NEXT_PUBLIC_AMBEE_API_KEY
 
 // Ambee Pollen API
 const AMBEE_BASE_URL = "https://api.ambeedata.com/latest"

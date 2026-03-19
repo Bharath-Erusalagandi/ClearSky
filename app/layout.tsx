@@ -8,7 +8,7 @@ import { Analytics } from "@vercel/analytics/react"
 
 export const metadata: Metadata = {
   title: "ClearSky - Respiratory Health Dashboard",
-  description: "AI-powered respiratory health monitoring with real-time environmental data",
+  description: "AI-powered respiratory health monitoring for safer, healthier living",
 }
 
 export default function RootLayout({
